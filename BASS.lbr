@@ -66,6 +66,9 @@
 <pad name="P$1" x="-2.54" y="0" drill="0.8" shape="square"/>
 <pad name="P$2" x="2.54" y="0" drill="0.8" shape="square"/>
 </package>
+<package name="D-PAC">
+<smd name="P$1" x="0" y="0" dx="1.27" dy="0.635" layer="1" rot="R90"/>
+</package>
 </packages>
 <symbols>
 <symbol name="A-SYM">

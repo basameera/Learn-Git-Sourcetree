@@ -68,6 +68,10 @@
 </package>
 <package name="F-PAC">
 <smd name="P$2" x="-1.27" y="0" dx="1.27" dy="0.635" layer="1" rot="R90"/>
+<package name="E-PAC">
+<smd name="P$1" x="0" y="0" dx="1.27" dy="0.635" layer="1" rot="R90"/>
+<smd name="P$2" x="-1.27" y="0" dx="1.27" dy="0.635" layer="1" rot="R90"/>
+<smd name="P$3" x="1.27" y="0" dx="1.27" dy="0.635" layer="1" rot="R90"/>
 </package>
 </packages>
 <symbols>
